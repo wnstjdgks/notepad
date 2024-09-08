@@ -1,0 +1,16 @@
+<RCC>
+  <qresource>
+    <file>betweenAlign.png</file>
+    <file>boldImage.png</file>
+    <file>centerAlign.png</file>
+    <file>colorLine.png</file>
+    <file>Italicimage.png</file>
+    <file>leftAlign.png</file>
+    <file>midAlign.png</file>
+    <file>midLine.png</file>
+    <file>open.png</file>
+    <file>rightAlign.png</file>
+    <file>save.png</file>
+    <file>underLine.png</file>
+  </qresource>
+</RCC>
