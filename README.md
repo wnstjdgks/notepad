@@ -1,2 +1,6 @@
 # Notepad
-A simple text editor that allows users to write, save, and manage notes efficiently.
+사용자가 노트를 효율적으로 작성, 저장 및 관리할 수 있는 간단한 텍스트 편집기입니다.
+
+
+### v1.0.0
+- 기본 메모 작성 및 저장 기능 추가
